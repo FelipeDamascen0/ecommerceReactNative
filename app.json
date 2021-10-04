@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "interfaceEcommerce",
+    "slug": "interfaceEcommerce",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.xs0mbr4.interfaceEcommerce"
+    }
+  },
+  "name": "interfaceEcommerce"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 312,
+    "name": "Super Mario Odyssey",
+    "price": 197.88,
+    "frete": 10.0,
+    "score": 100,
+    "image": "https://images-americanas.b2w.io/produtos/01/00/img/25898/3/25898372_1SZ.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Call Of Duty Infinite Warfare",
+    "price": 49.99,
+    "frete": 10.0,
+    "score": 80,
+    "image": "https://images-americanas.b2w.io/produtos/01/00/item/129427/9/129427953SZ.jpg"
+  },
+  {
+    "id": 102,
+    "name": "The Witcher III Wild Hunt",
+    "price": 119.5,
+    "frete": 10.00,
+    "score": 250,
+    "image": "https://m.media-amazon.com/images/I/51FdXnfNj6L._AC_SX385_.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Call Of Duty WWII",
+    "price": 249.99,
+    "frete": 0.0,
+    "score": 205,
+    "image": "https://images-americanas.b2w.io/produtos/01/00/item/132649/7/132649709SZ.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mortal Kombat XL",
+    "price": 69.99,
+    "frete": 10.0,
+    "score": 150,
+    "image": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/126077/6/126077695SZ.png"
+  },
+  {
+    "id": 74,
+    "name": "Shards of Darkness",
+    "price": 71.94,
+    "frete": 10.0,
+    "score": 400,
+    "image": "https://capas-m2.wmixvideo.com.br/cr193065.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Terra Média: Sombras de Mordor",
+    "price": 79.99,
+    "frete": 10.0,
+    "score": 50,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_120515-MLB25260270703_012017-O.webp"
+  },
+  {
+    "id": 420,
+    "name": "FIFA 18",
+    "price": 195.39,
+    "frete": 10.0,
+    "score": 325,
+    "image": "https://upload.wikimedia.org/wikipedia/pt/e/e0/FIFA_18_Capa.jpg"
+  },
+  {
+    "id": 501,
+    "name": "Horizon Zero Dawn",
+    "price": 115.8,
+    "frete": 10.0,
+    "score": 290,
+    "image": "https://lojavirtual.sebinho.com.br/10372-large_default/horizon-zero-dawn-ps4.jpg"
+  }
+
+]
